@@ -157,12 +157,10 @@ docker  exec -it f68f8d5ec87d bash
 
 
 
-
-
-
-
 docker network create --opt encrypted --driver overlay my-multi-host-network
 docker network rm 
+
+
 
 
 docker volume inspect db_data
