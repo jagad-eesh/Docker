@@ -4,6 +4,6 @@ This is a Docker repository which contains required information to work with Doc
 We are going to add few docker files over here
 ```sh
 this is jagadeesh
-i am from andhrapradesj
+i am from andhrapradesh
 now iam working as devops engineer
 ```
